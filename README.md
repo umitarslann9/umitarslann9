@@ -1,6 +1,6 @@
 # Hi, I'm Ümit Arslan 👋
 
-Final-year Computer Engineering student at İzmir Institute of Technology (IZTECH) and part-time Full Stack Developer at [FU Enerji](https://aiolos.app), where I work on **Aiolos**, a web and mobile platform for wind turbine operations: a Next.js web app, a React Native (Expo) mobile app and a FastAPI + PostgreSQL/TimescaleDB backend.
+Final-year Computer Engineering student at İzmir Institute of Technology (IZTECH) and part-time Full Stack Developer at Fu Enerji, where I work on **Aiolos**, a web and mobile platform for wind turbine operations: a Next.js web app, a React Native (Expo) mobile app and a FastAPI + PostgreSQL/TimescaleDB backend.
 
 I like building backend systems and the AI features that sit on top of them: RAG assistants, SCADA analytics, LLM evaluation.
 
